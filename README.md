@@ -43,10 +43,6 @@ ctrl + shift + i
 
 Upewnij się, że masz wybraną zakładkę konsoli. Nie wklejaj niczego do konsoli, jeśli nie jesteś w 100% pewien, co to ma robić. Wklejenie niewłaściwej rzeczy może spowodować ujawnienie poufnych informacji.
 
-## Zasoby
-
-* [Nebula (Create Distribution.json)][nebula]
-
 ---
 
 ### Wyspa Retardów | 6 Edycja
