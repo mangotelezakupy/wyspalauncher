@@ -13,7 +13,7 @@
         {
             "id": "WyspaRetardów-1.16",
             "name": "Wyspa Retardów",
-            "description": "Główny serwer, zabezpieczony system anti-cheat | 5 EDYCJA",
+            "description": "Oficjalny serwer survival.",
             "icon": "https://media.discordapp.net/attachments/824034997039005736/845745242606141460/zwykly.png",
             "version": "5.0.0",
             "address": "mc.wysparetardow.pl:25565",
