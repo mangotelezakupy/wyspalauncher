@@ -28,7 +28,7 @@
             "modules": [
                 {
                     "id": "net.minecraftforge:forge:1.11.2-13.20.1.2476",
-                    "name": "Minecraft Forge 1.11.2-13.20.1.2476",
+                    "name": "Minecraft Forge 1.16.5",
                     "type": "ForgeHosted",
                     "artifact": {
                         "size": 4455536,
@@ -369,16 +369,6 @@
                             }
                         }
                     ]
-                },
-                {
-                    "id": "com.WyspaRetardów:westerosblocks:3.1.0-alpha-2-136",
-                    "name": "WesterosBlocks (3.1.0-alpha-2-136)",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 17352679,
-                         "MD5": "7a26b3f4f89bfe48f34c4fc95fc6437f",
-                        "url": "http://mc.wysparetardow.pl/wyspaclient/test-1.11.2/mods/WesterosBlocks.jar"
-                    }
                 },
                 {
                     "id": "com.WyspaRetardów:WyspaRetardówrp:2018-07-21",
