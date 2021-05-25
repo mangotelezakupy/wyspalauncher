@@ -11,16 +11,16 @@
     "rss": "https://wysparetardow.pl/articles/index.rss",
     "servers": [
         {
-            "id": "WyspaRetardów-1.16",
+            "id": "WyspaRetardów-1.11",
             "name": "Wyspa Retardów",
             "description": "Oficjalny serwer survival.",
             "icon": "https://media.discordapp.net/attachments/824034997039005736/845745242606141460/zwykly.png",
-            "version": "5.0.0",
+            "version": "0.0.0",
             "address": "mc.wysparetardow.pl:25565",
-            "minecraftVersion": "1.16",
+            "minecraftVersion": "1.11",
             "discord": {
                 "shortId": "Wyspa Retardów",
-                "largeImageText": "1.16 | 5 EDYCJA",
+                "largeImageText": "1.11 | 0 EDYCJA",
                 "largeImageKey": "wr34"
             },
             "mainServer": false,
@@ -260,7 +260,7 @@
                 },
                 {
                     "id": "mezz:jei:1.11.2-4.5.1.296",
-                    "name": "JustEnoughItems (1.11.2-4.5.1.296)",
+                    "name": "Wyspa Anti-Cheat (1.10-1.17)",
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 542399,
@@ -416,16 +416,16 @@
             ]
         },
         {
-            "id": "WyspaRetardówTest-1.17",
-            "name": "WyspaRetardów 1.17",
+            "id": "WyspaRetardówTest-1.12",
+            "name": "Wyspa Retardów 1.12",
             "description": "Oficjalny serwer testowy, objęty blokadą whitelist.",
             "icon": "https://media.discordapp.net/attachments/824034997039005736/845745200387457044/testowy.png",
-            "version": "6.0.0",
+            "version": "0.0.0",
             "address": "testowy.wysparetardow.pl:25565",
-            "minecraftVersion": "1.17",
+            "minecraftVersion": "1.12",
             "discord": {
                 "shortId": "Wyspa Retardów",
-                "largeImageText": "1.17 | 6 EDYCJA",
+                "largeImageText": "1.12 | 0 EDYCJA",
                 "largeImageKey": "wr34"
             },
             "mainServer": false,
@@ -675,7 +675,7 @@
                 },
                 {
                     "id": "mezz:jei:1.12.2-4.8.5.151",
-                    "name": "JustEnoughItems (1.12.2-4.8.5.151)",
+                    "name": "Wyspa Anti-Cheat (1.10-1.17)",
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 545366,
@@ -771,16 +771,6 @@
                             }
                         }
                     ]
-                },
-                {
-                    "id": "com.WyspaRetardów:westerosblocks:3.1.0-alpha-2-8",
-                    "name": "WesterosBlocks (3.1.0-alpha-2-8)",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 16771714,
-                         "MD5": "bb5f1d262c0fd96f1bddea40a69da956",
-                        "url": "http://mc.wysparetardow.pl/wyspaclient/test-1.12.2/mods/WesterosBlocks.jar"
-                    }
                 },
                 {
                     "id": "com.WyspaRetardów:WyspaRetardówrp:2018-05-05",
